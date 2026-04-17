@@ -119,19 +119,19 @@ form > input {
   margin-top: 10px;
 }
 
-.footer {
-  background-color: black;
-  color: white;
-  text-align: center;
-  margin: auto;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
+    .footer {
+      background-color: black;
+      color: white;
+      text-align: center;
+      margin: auto;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
 
-.footer > p {
-  margin-top: 15px;
-}
+    .footer>p {
+      margin-top: 15px;
+    }
 
 ul > li::marker {
   content: "➤";

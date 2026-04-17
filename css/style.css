@@ -124,6 +124,9 @@ form > input {
   color: white;
   text-align: center;
   margin: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 .footer > p {
